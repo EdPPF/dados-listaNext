@@ -13,7 +13,6 @@ fetch('https://raw.githubusercontent.com/EdPPF/dados-listaNext/main/...');
 
 Os `...` devem ser substituídos pelo arquivo que você quer acessar.
 
-Lembrem também que vocês verificar como os dados estão organizados nesses arquivos para criarem os tipos em TypeScript.
+Lembrem também que vocês devem verificar como os dados estão organizados nesses arquivos para criarem os tipos em TypeScript.
 
 > Obs.: Em cada produto, eu adicionei uma parte que não é requerida nas especificações do projeto final: `ingredientes`.
-> Ela será usada aqui para que vocês possam treinar o uso de `.map` para um atributo que é uma lista.

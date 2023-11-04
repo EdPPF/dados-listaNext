@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Milkshake de Chocolate",
+      "descricao": "Sorvete e leite com Toddy, o melhor dos dois mundos.",
+      "ingredientes": [
+        "Sorvete de Chocolate",
+        "Leite",
+        "Chocolate em Barra"
+      ],
+      "preco": "15.00"
+    },
+    {
+      "name": "Brownie",
+      "descricao": "Tipo bolo.",
+      "ingredientes": [
+        "Sorvete de Creme",
+        "Brownie"
+      ],
+      "preco": "12.00"
+    }
+  ]

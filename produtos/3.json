@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Refri",
+      "descricao": "Coca, Fanta, Guaraná, Jesus, o que for.",
+      "ingredientes": [
+        "Muita indústria."
+      ],
+      "preco": "06.00"
+    },
+    {
+        "name": "Suco",
+        "descricao": "De laranja, de vermelho, de verde, de azul ou sortido.",
+        "ingredientes": [
+          "Laranja",
+          "Vermelho",
+          "Verde",
+          "Azul"
+        ],
+        "preco": "05.00"
+      },
+    {
+      "name": "Caipirinha",
+      "descricao": "Caipirinha caipririnah.",
+      "ingredientes": [
+        "Limão",
+        "Cachaça"
+      ],
+      "preco": "10.00"
+    },
+    {
+      "name": "Água",
+      "descricao": "Da torneira.",
+      "ingredientes": [
+        "Água 'filtrada'"
+      ],
+      "preco": "00.01"
+    }
+  ]

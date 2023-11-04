@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Lasagna Bolonhesa",
+    "descricao": "Lasagna feita como muito bolo e um pouco de nhesa.",
+    "ingredientes": [
+      "Massa (de Lasagna)",
+      "Carne Moída",
+      "Molho de Tomate"
+    ],
+    "preco": "30.00"
+  },
+  {
+    "name": "Costela",
+    "descricao": "3 metros de costela de boi.",
+    "ingredientes": [
+      "Boi (só a costela)",
+      "Arroz Branco",
+      "Acompanhamento"
+    ],
+    "preco": "45.00"
+  },
+  {
+    "name": "Strogonoff de Frango Desfiado",
+    "descricao": "Não surpreendentemente muito bom.",
+    "ingredientes": [
+      "Frango Desfiado",
+      "Creme de Leite",
+      "Cogumelo",
+      "Arroz Branco",
+      "Batata Palha"
+    ],
+    "preco": "02.00"
+  }
+]
